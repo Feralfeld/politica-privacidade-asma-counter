@@ -47,7 +47,7 @@ A segurança dos seus dados é nossa prioridade. Utilizamos as melhores prática
 
 Manteremos suas informações pessoais enquanto sua conta estiver ativa ou conforme necessário para fornecer os serviços a você.
 
-Você tem o direito de solicitar a exclusão da sua conta e de todos os dados associados a ela a qualquer momento. Para iniciar o processo de exclusão, por favor, entre em contato conosco através do email **[seu-email-de-suporte@exemplo.com]**. Após a verificação da sua identidade, procederemos com a remoção permanente dos seus dados de nossos sistemas ativos.
+Você tem o direito de solicitar a exclusão da sua conta e de todos os dados associados a ela a qualquer momento. Para iniciar o processo de exclusão, por favor, entre em contato conosco através do email fernandoalfeld@gmail.com. Após a verificação da sua identidade, procederemos com a remoção permanente dos seus dados de nossos sistemas ativos.
 
 ### 6. Privacidade de Crianças
 
